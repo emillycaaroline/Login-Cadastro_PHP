@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
-    <title>Cover Template · Bootstrap v5.3</title>
+    <title>Inicio</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
 
@@ -223,9 +223,9 @@
             <div>
                 <h3 class="float-md-start mb-0">Cover</h3>
                 <nav class="nav nav-masthead justify-content-center float-md-end">
-                    <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link fw-bold py-1 px-0" href="#">Features</a>
-                    <a class="nav-link fw-bold py-1 px-0" href="#">Contact</a>
+                    <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="Inicio.php">Inicio</a>
+                    <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
+                    <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
                 </nav>
             </div>
         </header>
