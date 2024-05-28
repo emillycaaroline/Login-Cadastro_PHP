@@ -149,6 +149,14 @@
             color: #fff;
             border-bottom-color: #fff;
         }
+
+        .text-center-placeholder {
+    text-align: center; /* Centraliza o texto e o placeholder */
+}
+
+::placeholder {
+    text-align: center; /* Centraliza o placeholder */
+}
     </style>
 
 
@@ -231,16 +239,16 @@
         </header>
 
         <form class="row g-3">
-  <div class="col-md-10">
+  <div class="col-md-12">
     <label for="inputEmail4" class="form-label">Email</label>
-    <input type="email" class="form-control" id="inputEmail4" required>
+    <input type="email" class="form-control text-center-placeholder" id="inputEmail4" placeholder="email@email.com" required>
   </div>
-  <div class="col-md-10">
+  <div class="col-md-12">
     <label for="inputPassword4" class="form-label">Senha</label>
-    <input type="password" class="form-control" id="inputPassword4" required>
+    <input type="password" class="form-control text-center-placeholder" id="inputPassword4" placeholder="*******" required>
   </div>
   
-  <div class="col-10" >
+  <div class="col-12" >
     <button type="submit" class="btn btn-info">Sign in</button>
   </div>
 </form>
