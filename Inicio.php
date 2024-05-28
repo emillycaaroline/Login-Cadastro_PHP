@@ -175,9 +175,7 @@
         <main class="px-3">
             <h1>Pagina de Cadastro e Login.</h1>
             <p class="lead">Essa página feita em PHP foi realizada para uma atividade de Programação web II com a ultilização de bootstrap para modelo. <br>A baixo o segue o modelo e meu GitHub.</p>
-            <p class="lead">
-                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
-            </p>
+            
         </main>
 
         <footer class="mt-auto text-white-50">
