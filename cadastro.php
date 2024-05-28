@@ -260,7 +260,7 @@
             </div>
 
             <div class="col-12">
-                <button type="submit" class="btn btn-info">Sign in</button>
+                <button type="submit" class="btn btn-outline-info">Cadastrar</button>
             </div>
         </form>
 
