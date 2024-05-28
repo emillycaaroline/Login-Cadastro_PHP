@@ -157,6 +157,11 @@
 ::placeholder {
     text-align: center; /* Centraliza o placeholder */
 }
+
+form{
+    border: solid #fff 5px;
+    border-radius: 20px;
+}
     </style>
 
 
@@ -191,7 +196,7 @@
   </div>
   
   <div class="col-12" >
-    <button type="submit" class="btn btn-outline-info">Logar</button>
+    <button type="submit" class="btn btn-outline-info">Logar</button> <br><br>
   </div>
 </form>
 

@@ -159,6 +159,10 @@
     text-align: center; /* Centraliza o placeholder */
 }
 
+form{
+    border: solid #fff 5px;
+    border-radius: 20px;
+}
     </style>
 
 
@@ -201,7 +205,7 @@
             </div>
 
             <div class="col-12">
-                <button type="submit" class="btn btn-outline-info">Cadastrar</button>
+                <button type="submit" class="btn btn-outline-info">Cadastrar</button><br><br>
             </div>
         </form>
 
