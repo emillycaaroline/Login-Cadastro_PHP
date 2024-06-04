@@ -202,7 +202,7 @@
                 <input type="email" class="form-control text-center-placeholder" id="inputEmail4" placeholder="email@email.com" required>
             </div>
             <div class="col-md-6">
-                <label for="inputPassword4" class="form-label">Senha</label>
+                <label for="inputPassword4" class="form-label">Criar Senha</label>
                 <input type="password" class="form-control text-center-placeholder" id="inputPassword4" placeholder="*******" required>
             </div>
             <div class="col-md-6">
