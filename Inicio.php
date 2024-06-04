@@ -177,6 +177,9 @@
             <p class="lead">Essa página feita em PHP foi realizada para uma atividade de Programação web II com a ultilização de bootstrap para modelo. <br>A baixo o segue o modelo e meu GitHub.</p>
             
         </main>
+        <p class="lead">
+      <a href="https://github.com/emillycaaroline/Login-Cadastro_PHP" class="btn btn-lg btn-light fw-bold border-white bg-white">Repositório GitHub</a>
+    </p>
 
         <footer class="mt-auto text-white-50">
             <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
