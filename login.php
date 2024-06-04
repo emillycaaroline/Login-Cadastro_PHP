@@ -198,9 +198,11 @@ body {
     <label for="inputPassword4" class="form-label">Senha</label>
     <input type="password" class="form-control text-center-placeholder" id="inputPassword4" placeholder="*******" required>
   </div>
+
+  <p>Não tem cadastro? <a style="color: #db82ff;" for="cad" href="cadastro.php">Cadastra-se</a></p>
   
   <div class="col-12" >
-    <button type="submit" class="btn btn-outline-info">Logar</button> <br><br>
+    <button type="submit" class="btn btn-outline-info" >Logar</button> <br><br>
   </div>
 </form>
 
