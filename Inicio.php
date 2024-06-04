@@ -149,6 +149,12 @@
             color: #fff;
             border-bottom-color: #fff;
         }
+
+
+        body {
+            background: rgb(23, 1, 31);
+            background: linear-gradient(90deg, rgba(23, 1, 31, 1) 0%, rgba(67, 4, 91, 1) 50%, rgba(23, 1, 31, 1) 100%);
+        }
     </style>
 
 
@@ -156,7 +162,7 @@
     <link href="cover.css" rel="stylesheet">
 </head>
 
-<body class="d-flex h-100 text-center text-bg-dark">
+<body class="d-flex h-100 text-center " style="color: #fff;">
     
 
 

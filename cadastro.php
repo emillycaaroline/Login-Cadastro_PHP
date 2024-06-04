@@ -150,19 +150,26 @@
             color: #fff;
             border-bottom-color: #fff;
         }
-        
+
         .text-center-placeholder {
-    text-align: center; /* Centraliza o texto e o placeholder */
-}
+            text-align: center;
+            /* Centraliza o texto e o placeholder */
+        }
 
-::placeholder {
-    text-align: center; /* Centraliza o placeholder */
-}
+        ::placeholder {
+            text-align: center;
+            /* Centraliza o placeholder */
+        }
 
-form{
-    border: solid #fff 5px;
-    border-radius: 20px;
-}
+        form {
+            border: solid #fff 5px;
+            border-radius: 20px;
+        }
+
+        body {
+            background: rgb(23, 1, 31);
+            background: linear-gradient(90deg, rgba(23, 1, 31, 1) 0%, rgba(67, 4, 91, 1) 50%, rgba(23, 1, 31, 1) 100%);
+        }
     </style>
 
 
@@ -170,13 +177,13 @@ form{
     <link href="cover.css" rel="stylesheet">
 </head>
 
-<body class="d-flex h-100 text-center text-bg-dark">
-    
+<body class="d-flex h-100 text-center " style="color: #fff;">
+
 
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="mb-auto">
             <div>
-                <h3 class="float-md-start mb-0">Cover</h3>
+            <h3 class="float-md-start mb-0">Cover</h3>
                 <nav class="nav nav-masthead justify-content-center float-md-end">
                     <a class="nav-link fw-bold py-1 px-0" aria-current="page" href="Inicio.php">Inicio</a>
                     <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
@@ -185,13 +192,13 @@ form{
             </div>
         </header>
 
-        <form class="row g-3">
-        <div class="col-md-12">
+        <form class="row g-3" >
+            <div class="col-md-12">
                 <label for="inputEmail4" class="form-label">Nome</label>
                 <input type="email" class="form-control text-center-placeholder" id="inputEmail4" placeholder="Nome Sobrenome" required>
             </div>
-            
-        <div class="col-md-12">
+
+            <div class="col-md-12">
                 <label for="inputEmail4" class="form-label">Email</label>
                 <input type="email" class="form-control text-center-placeholder" id="inputEmail4" placeholder="email@email.com" required>
             </div>
