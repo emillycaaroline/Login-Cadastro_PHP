@@ -155,6 +155,8 @@
             background: rgb(23, 1, 31);
             background: linear-gradient(90deg, rgba(23, 1, 31, 1) 0%, rgba(67, 4, 91, 1) 50%, rgba(23, 1, 31, 1) 100%);
         }
+
+        
     </style>
 
 
@@ -184,7 +186,7 @@
             
         </main>
         <p class="lead">
-      <a href="https://github.com/emillycaaroline/Login-Cadastro_PHP" class="btn btn-lg btn-light fw-bold border-white bg-white">Repositório GitHub</a>
+      <a href="https://github.com/emillycaaroline/Login-Cadastro_PHP" class="btn btn-info" >Repositório GitHub</a>
     </p>
 
         <footer class="mt-auto text-white-50">
